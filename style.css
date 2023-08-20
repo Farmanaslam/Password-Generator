@@ -1,0 +1,29 @@
+html {
+  height: 100%;
+  width: 100%;
+}
+
+body {
+  background-color: #42b92a;
+  font-style: Sans-serif;
+}
+
+#title {
+  text-align: center;
+  margin-right: 10%;
+  margin-bottom: 8%;
+  margin-top: 5%;
+}
+
+#btn {
+  font-size: 25px;
+
+  background-color: #33b249;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin: 0 auto;
+  height: 20vh;
+  width: 60vh;
+
+}
